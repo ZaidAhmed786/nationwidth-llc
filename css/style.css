@@ -1,8 +1,12 @@
 .top-bar {
-    background-color: rgb(3, 3, 54);
+    background-color: #0f6c60;
     color: white;
     font-size: 0.9rem;
   }
+.header-nav{
+    background-color: rgb(3, 3, 54);
+
+}
 
   .navbar-custom {
     background-color: #0e0e10;
