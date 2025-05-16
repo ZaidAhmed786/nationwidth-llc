@@ -1,5 +1,5 @@
 .top-bar {
-    background-color: #0f6c60;
+    background-color: rgb(3, 3, 54);
     color: white;
     font-size: 0.9rem;
   }
@@ -394,11 +394,15 @@
     display: flex;
     
     width: 100%;
+    align-items: center;
     flex-wrap: wrap;
     gap: 10px;
   }
   .input-div{
     width: 75%;
+    background-color: white;
+    border-radius: 30px;
+    align-items: center;
   }
   .subscribe-box input {
     border-radius: 25px;
